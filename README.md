@@ -44,7 +44,9 @@ and select the item
 
 
 - ### TODO Progress Bar <a name = "progress"></a>
-<img src="https://github.com/8bitgentleman/Roam-Render-Components/raw/main/TODO%20Progress%20Bar/image.gif " width="400"  ></img>
+  Download the latest JSON for importing into Roam <a href='https://github.com/8bitgentleman/Roam-Render-Components/releases/'>here </a>
+
+  <img src="https://github.com/8bitgentleman/Roam-Render-Components/raw/main/TODO%20Progress%20Bar/image.gif" width="400"></img>
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
