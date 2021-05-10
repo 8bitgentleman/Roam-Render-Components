@@ -21,6 +21,7 @@
 - [Usage](#usage)
 - [Components](#components)
   - [TODO Progress Bar](#progress)
+  - [WIP - Roam to Orbit](#orbit)
 - [Authors](#authors)
 
 ## 🏁 Installing <a name = "getting_started"></a>
@@ -48,6 +49,11 @@ and select the item
 
   <img src="https://github.com/8bitgentleman/Roam-Render-Components/raw/main/TODO%20Progress%20Bar/image.gif" width="400"></img>
 
+- ### WIP Roam to Orbit <a name = "orbit"></a>
+  THIS IS A WORK IN PROGRESS AND NOT READY FOR GENERAL USAGE
+  
+  This is a component that will integrate with <a href='https://github.com/andymatuschak/orbit'>Andy Matuschak's</a> new open-source experimental spaced repetition  platform <a href='https://github.com/andymatuschak/orbit'>Orbit.</a>
+  You will pass a page name string into the component and it will load all prompts and answers that reference that page
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [roam/render](https://roamresearch.com/#/app/developer-documentation/page/7l31uEMqA)
