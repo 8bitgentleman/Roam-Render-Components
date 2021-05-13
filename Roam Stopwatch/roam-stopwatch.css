@@ -1,0 +1,15 @@
+:root{
+  --stopwatch-primary: #3871CD;
+  --stopwatch-secondary: #DBE4F6;
+}
+
+.roam-stopwatch button{
+  color: var(--stopwatch-primary) !important;
+  background: var(--stopwatch-secondary) !important;
+  border: 1px solid var(--stopwatch-primary) !important;
+  border-radius:3px !important;
+}
+
+.roam-stopwatch .bp3-icon-stopwatch::before{
+  color:var(--stopwatch-primary);
+}
