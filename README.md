@@ -4,8 +4,6 @@
 <div align="center">
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-  [![GitHub Issues](https://img.shields.io/github/issues/8bitgentleman/spaced-repetition.svg)](https://github.com/8bitgentleman/Roam-Render-Components/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/8bitgentleman/spaced-repetition.svg)](https://github.com/8bitgentleman/Roam-Render-Components/pulls)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -22,6 +20,8 @@
 - [Components](#components)
   - [TODO Progress Bar](#progress)
   - [WIP - Roam to Orbit](#orbit)
+  - [WIP - Stopwatch](#stopwatch)
+
 - [Authors](#authors)
 
 ## 🏁 Installing <a name = "getting_started"></a>
@@ -53,8 +53,13 @@ and select the item
   THIS IS A WORK IN PROGRESS AND NOT READY FOR GENERAL USAGE
   
   This is a component that will integrate with <a href='https://github.com/andymatuschak/orbit'>Andy Matuschak's</a> new open-source experimental spaced repetition  platform <a href='https://github.com/andymatuschak/orbit'>Orbit.</a>
-  You will pass a page name string into the component and it will load all prompts and answers that reference that page
+  You will pass a page name string into the component and it will load all prompts and answers that reference that page. You can find the code and optional CSS <a href="https://github.com/8bitgentleman/Roam-Render-Components/raw/main/Roam%20to%20Orbit">here</a>.
 
+- ### WIP Roam Stopwatch <a name = "stopwatch"></a>
+  THIS IS A WORK IN PROGRESS AND NOT READY FOR GENERAL USAGE
+  
+  This is a component that acts as a stopwatch, counting up instead of counting down (like POMO). When clicking the button the current lap length will be added as a child block and the lap will reset. To set a custom title pass in a string in quotes to the componenet. See the code and optional CSS <a href="https://github.com/8bitgentleman/Roam-Render-Components/raw/main/Roam%20Stopwatch">here</a>.
+  
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [roam/render](https://roamresearch.com/#/app/developer-documentation/page/7l31uEMqA)
 - [Clojurescript](https://clojurescript.org/)
