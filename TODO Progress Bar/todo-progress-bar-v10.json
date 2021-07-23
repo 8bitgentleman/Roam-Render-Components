@@ -1,0 +1,432 @@
+[{
+    "create-time": 1627005157461,
+    "title": "roam/render",
+    ":create/user": {
+        ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+    },
+    "children": [{
+        "edit-time": 1627005181041,
+        "children": [{
+            "string": "**Author**",
+            "create-time": 1627005203357,
+            ":create/user": {
+                ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+            },
+            "children": [{
+                "string": "Matt Vogel",
+                "create-time": 1627005220283,
+                "uid": "TXJZR-mdr",
+                "edit-time": 1627005220289,
+                ":create/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                },
+                ":edit/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                }
+            }, {
+                "string": "Twitter:: [@todayIwasbetter](https://twitter.com/todayIwasbetter)",
+                "create-time": 1627005220283,
+                ":block/refs": [{
+                    ":block/uid": "WBpHlPJnY"
+                }],
+                "refs": [{
+                    "uid": "WBpHlPJnY"
+                }],
+                ":create/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                },
+                "uid": "CSOTHaNSS",
+                "edit-time": 1627005220289,
+                ":edit/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                }
+            }, {
+                "string": "How Best To Contact Me:: Roam Slack, Twitter and my are good",
+                "create-time": 1627005220283,
+                ":block/refs": [{
+                    ":block/uid": "bf2UHEyCb"
+                }],
+                "refs": [{
+                    "uid": "bf2UHEyCb"
+                }],
+                ":create/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                },
+                "uid": "8Pg4L22r3",
+                "edit-time": 1627005220289,
+                ":edit/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                }
+            }, {
+                "string": "This code is open source! If you have ideas for improvements or run into a bug feel free to fork it or report it over on the [Github repo](https://github.com/8bitgentleman/Roam-Render-Components)",
+                "create-time": 1627005220283,
+                "uid": "fMBSCfe35",
+                "edit-time": 1627005220289,
+                ":create/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                },
+                ":edit/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                }
+            }],
+            "uid": "_xOSz5zD6",
+            "edit-time": 1627005204386,
+            ":edit/user": {
+                ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+            }
+        }, {
+            "edit-time": 1627005459991,
+            "children": [{
+                "string": "{{[[roam/render]]: ((5juEDRY_n))}}",
+                "create-time": 1627005359484,
+                ":block/refs": [{
+                    ":block/uid": "o7j0wAqdq"
+                }, {
+                    ":block/uid": "5juEDRY_n"
+                }],
+                "refs": [{
+                    "uid": "o7j0wAqdq"
+                }, {
+                    "uid": "5juEDRY_n"
+                }],
+                ":create/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                },
+                "uid": "9gpKe5w2k",
+                "edit-time": 1627005384610,
+                ":edit/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                }
+            }],
+            "refs": [{
+                "uid": "fVizSlrZL"
+            }],
+            "uid": "wv-uDdM08",
+            ":block/refs": [{
+                ":block/uid": "fVizSlrZL"
+            }],
+            "string": "TODO Progress Bar v10 [[roam/templates]]",
+            ":create/user": {
+                ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+            },
+            "create-time": 1627005197084,
+            ":edit/user": {
+                ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+            }
+        }, {
+            "string": "Example",
+            "create-time": 1627005516395,
+            ":create/user": {
+                ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+            },
+            "children": [{
+                "edit-time": 1627005564959,
+                "children": [{
+                    "edit-time": 1627005613896,
+                    "children": [{
+                        "string": "explanation",
+                        "create-time": 1627005518804,
+                        "uid": "kP_fL-FOd",
+                        "edit-time": 1627005518820,
+                        ":create/user": {
+                            ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                        },
+                        ":edit/user": {
+                            ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                        }
+                    }, {
+                        "string": "{{[[DONE]]}} Sub task",
+                        "create-time": 1627005518804,
+                        ":block/refs": [{
+                            ":block/uid": "EdGDxtxQ2"
+                        }],
+                        "refs": [{
+                            "uid": "EdGDxtxQ2"
+                        }],
+                        ":create/user": {
+                            ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                        },
+                        "uid": "4GT-Zqf8j",
+                        "edit-time": 1627005518820,
+                        ":edit/user": {
+                            ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                        }
+                    }],
+                    "refs": [{
+                        "uid": "6kAJ6AYeR"
+                    }],
+                    "uid": "jWCAtS79q",
+                    ":block/refs": [{
+                        ":block/uid": "6kAJ6AYeR"
+                    }],
+                    "string": "{{[[TODO]]}} Task one",
+                    ":create/user": {
+                        ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                    },
+                    "create-time": 1627005518804,
+                    ":edit/user": {
+                        ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                    }
+                }, {
+                    "string": "{{[[DONE]]}} A done task",
+                    "create-time": 1627005518804,
+                    ":block/refs": [{
+                        ":block/uid": "EdGDxtxQ2"
+                    }],
+                    "refs": [{
+                        "uid": "EdGDxtxQ2"
+                    }],
+                    ":create/user": {
+                        ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                    },
+                    "uid": "M-IQ3N9eO",
+                    "edit-time": 1627005518820,
+                    ":edit/user": {
+                        ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                    }
+                }, {
+                    "string": "Leftover Tasks from another Project",
+                    "create-time": 1627005567676,
+                    ":create/user": {
+                        ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                    },
+                    "children": [{
+                        "string": "((NpUDgQ7e6))",
+                        "create-time": 1627005601969,
+                        ":block/refs": [{
+                            ":block/uid": "NpUDgQ7e6"
+                        }],
+                        "refs": [{
+                            "uid": "NpUDgQ7e6"
+                        }],
+                        ":create/user": {
+                            ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                        },
+                        "uid": "_2AYXohSn",
+                        "edit-time": 1627005601969,
+                        ":edit/user": {
+                            ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                        }
+                    }],
+                    "uid": "FD1mNalLt",
+                    "edit-time": 1627005576945,
+                    ":edit/user": {
+                        ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                    }
+                }],
+                "refs": [{
+                    "uid": "o7j0wAqdq"
+                }, {
+                    "uid": "5juEDRY_n"
+                }],
+                "uid": "x1sODqnkV",
+                ":block/refs": [{
+                    ":block/uid": "o7j0wAqdq"
+                }, {
+                    ":block/uid": "5juEDRY_n"
+                }],
+                "string": "Today's Tasks\n{{[[roam/render]]: ((5juEDRY_n))}}",
+                ":create/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                },
+                "create-time": 1627005518804,
+                ":edit/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                }
+            }, {
+                "string": "Old tasks",
+                "create-time": 1627005518804,
+                ":create/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                },
+                "children": [{
+                    "string": "{{[[TODO]]}} old unfinished task",
+                    "create-time": 1627005587770,
+                    ":block/refs": [{
+                        ":block/uid": "6kAJ6AYeR"
+                    }],
+                    "refs": [{
+                        "uid": "6kAJ6AYeR"
+                    }],
+                    ":create/user": {
+                        ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                    },
+                    "uid": "NpUDgQ7e6",
+                    "edit-time": 1627005612420,
+                    ":edit/user": {
+                        ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                    }
+                }],
+                "uid": "HfmHTu3JJ",
+                "edit-time": 1627005586049,
+                ":edit/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                }
+            }],
+            "uid": "rbcqfJQNk",
+            "edit-time": 1627005518259,
+            ":edit/user": {
+                ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+            }
+        }, {
+            "string": "code",
+            "create-time": 1627002308965,
+            ":create/user": {
+                ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+            },
+            "children": [{
+                "string": "```clojure\n(ns progress-bar-v10\n  (:require\n   [reagent.core :as r]\n   [datascript.core :as d]\n   [roam.datascript.reactive :as dr]\n   [clojure.pprint :as pp]))```",
+                "create-time": 1627002308965,
+                "uid": "VE4oX08tP",
+                "edit-time": 1627005264413,
+                ":create/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                },
+                ":edit/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                }
+            }, {
+                "string": "```clojure\n\n(defn flatten-block \n  \"Flattens a blocks children into a flat list\"\n  [acc block]\n  (reduce flatten-block\n          (conj acc (dissoc block :block/children))\n          (:block/children block)))\n\n(defn find-child-refs\n  \"Returns all _refs for children blocks given a parent block uid\"\n  [block-uid]\n  (flatten-block []\n             @(dr/q '[:find (pull ?e [:block/refs{:block/children ...}]) .\n                      :in $ ?uid\n                      :where\n                      [?e :block/uid ?uid]]\n                    block-uid)))\n\n(defn id-title \n  \"Gets a page's title from its db id\"\n  [id]\n  (:node/title @(dr/pull '[:node/title] id))\n  )\n\n(defn info-from-id [id]\n  \t(or (:node/title @(dr/pull '[:node/title] id))\n      (map\n       id-title \n       (map \n       \t\t:db/id\n       \t\t(:block/refs @(dr/pull '[:block/refs] id))\n       ))\n      )\n  )\n\n(defn count-occurrences \n  \"Counts the occurances of a string in a list\"\n  [s slist]\n  (->> slist\n       flatten\n       (filter #{s})\n       count))\n\n\n(defn recurse-search\n  \"Recursivly search through a block's children for all pages referenced\"\n  [block-uid]\n  (->> block-uid\n       (find-child-refs)\n       (map :block/refs)\n       (flatten)\n       (map :db/id)\n       (map  info-from-id)\n       (flatten)))```",
+                "create-time": 1627002308965,
+                "uid": "rhT46fbpH",
+                "edit-time": 1627005264413,
+                ":create/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                },
+                ":edit/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                }
+            }, {
+                "string": "```clojure\n(defn main [{:keys [block-uid]} & args]\n  (let [tasks (r/atom {;; don't love that I do this search twice\n                       :todo (count-occurrences \"TODO\" (recurse-search block-uid))\n                       :done (count-occurrences \"DONE\" (recurse-search block-uid))} )]\n    \n      [:div\n             [:div {:style {:display \"flex\"\n                                 :align-items \"center\"}\n                         }\n                   [:span [:progress {\n                      :id \"file\"\n                      :name \"percent-done\"\n                      :value (:done @tasks)\n                      :max (+ (:todo @tasks) (:done @tasks))\n                      :style{\n\n                             :margin-left \"10px\"\n                             :margin-right \"10px\"\n                             }}]\n                    ]\n                    [:span [:div  (str (:done @tasks)  \"/\"\n                                      (+ \n                                        (:done @tasks)\n                                        (:todo @tasks))\n                                    \" Done\"\n                                    )]]\n\n                   ]\n           ]\n  ))\n;\n```",
+                "create-time": 1627002308965,
+                "uid": "5juEDRY_n",
+                "edit-time": 1627005264413,
+                ":create/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                },
+                ":edit/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                }
+            }],
+            "uid": "3vdX0T0YI",
+            "edit-time": 1627005264413,
+            ":edit/user": {
+                ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+            }
+        }, {
+            "string": "CSS (optional)",
+            "create-time": 1627005271387,
+            ":create/user": {
+                ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+            },
+            "children": [{
+                "string": "Strike through DONE items",
+                "create-time": 1627005273070,
+                ":create/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                },
+                "children": [{
+                    "edit-time": 1627005299729,
+                    "children": [{
+                        "string": "```css\n\ndiv.rm-block[data-page-links*=\"DONE\"]>.rm-block-main {\n  color:rgb(180,180,180);\n   text-decoration: line-through;\n}\n```",
+                        "create-time": 1627005299723,
+                        "uid": "8FUwq7V9y",
+                        "edit-time": 1627005305332,
+                        ":create/user": {
+                            ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                        },
+                        ":edit/user": {
+                            ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                        }
+                    }],
+                    "refs": [{
+                        "uid": "89Retrvwl"
+                    }],
+                    "uid": "_rrN-k08U",
+                    ":block/refs": [{
+                        ":block/uid": "89Retrvwl"
+                    }],
+                    "string": "{{[[roam/css]]}}",
+                    ":create/user": {
+                        ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                    },
+                    "create-time": 1627005287435,
+                    ":edit/user": {
+                        ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                    }
+                }],
+                "uid": "BcSw4F7nc",
+                "edit-time": 1627005282566,
+                ":edit/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                }
+            }, {
+                "string": "Style the Progress Bar",
+                "create-time": 1627005308939,
+                ":create/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                },
+                "children": [{
+                    "edit-time": 1627005343381,
+                    "children": [{
+                        "string": "```css\n:root{\n  --progress-bar-default:#0075FF;\n  --progress-bar:#F70;\n  --progress-border:#B6B6B6;\n  --progress-bg:#EFEFEF;\n}\n\nprogress[name=\"percent-done\"],\n.todo-progress-bar progress{\n  display:inline-block;\n  height:8px;\n  background:none;\n  border-radius: 15px;\n\n}\n\nprogress::-webkit-progress-bar,\n.todo-progress-bar progress::-webkit-progress-bar{\n  height:8px;\n  background-color: var(--progress-bg);\n  border-radius: 15px;\n  box-shadow:0px 0px 6px var(--progress-border) inset;\n}\n\nprogress::-webkit-progress-value,\n.todo-progress-bar progress::-webkit-progress-value{\n  display:inline-block;\n  float:left;\n  height:8px;\n  margin:0px -10px 0 0;\n  background: var(--progress-bar);\n  border-radius: 5px;\n  box-shadow:0px 0px 6px var(--progress-border) inset;\n}```",
+                        "create-time": 1627005315899,
+                        "uid": "DVI36cPUL",
+                        "edit-time": 1627005333356,
+                        ":create/user": {
+                            ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                        },
+                        ":edit/user": {
+                            ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                        }
+                    }],
+                    "refs": [{
+                        "uid": "89Retrvwl"
+                    }],
+                    "uid": "pUFO_PXxC",
+                    ":block/refs": [{
+                        ":block/uid": "89Retrvwl"
+                    }],
+                    "string": "{{[[roam/css]]}}",
+                    ":create/user": {
+                        ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                    },
+                    "create-time": 1627005336316,
+                    ":edit/user": {
+                        ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                    }
+                }],
+                "uid": "9W13RkSQv",
+                "edit-time": 1627005315155,
+                ":edit/user": {
+                    ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                }
+            }],
+            "uid": "ibDQg1U89",
+            "edit-time": 1627005272356,
+            ":edit/user": {
+                ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+            }
+        }],
+        "refs": [{
+            "uid": "07-22-2021"
+        }],
+        "uid": "Pn9T4XDsh",
+        ":block/refs": [{
+            ":block/uid": "07-22-2021"
+        }],
+        "string": "TODO Progress Bar - v10 [[July 22nd, 2021]]",
+        ":create/user": {
+            ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+        },
+        "create-time": 1627005166801,
+        ":edit/user": {
+            ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+        }
+    }],
+    "uid": "o7j0wAqdq",
+    "edit-time": 1619702918387,
+    ":edit/user": {
+        ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+    }
+}]
