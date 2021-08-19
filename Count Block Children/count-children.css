@@ -1,0 +1,15 @@
+:root {
+    --child-count-text: #3871CD;
+    --child-count-border: #3871CD;
+}
+
+.rm-child-count {
+    border: 1px solid var(--child-count-border);
+    padding: 2px;
+    float: left;
+    border-radius: 10px;
+}
+
+.rm-child-count>span {
+    color: var(--child-count-text);
+}
