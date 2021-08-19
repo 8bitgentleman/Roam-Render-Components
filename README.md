@@ -54,7 +54,7 @@ and select the item
   Counts the number of children a block has.
   Look for and download the latest JSON Release then import into Roam <a href='https://github.com/8bitgentleman/Roam-Render-Components/releases/'>here </a>
 
-  <img src="https://github.com/8bitgentleman/Roam-Render-Components/raw/main/TODO%20Progress%20Bar/image.gif" width="400"></img>
+  <img src="https://github.com/8bitgentleman/Roam-Render-Components/raw/main/Count%20Block%20Children/image.png" width="400"></img>
 
 - ### WIP Roam to Orbit <a name = "orbit"></a>
   THIS IS A WORK IN PROGRESS AND NOT READY FOR GENERAL USAGE
