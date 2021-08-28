@@ -10,8 +10,10 @@
 
 ---
 
-<p align="center"> A collection of custom components for <a href="https://roamresearch.com">Roam Research</a>, writing in roam/render with clojurescript.
+<p align="center"> A collection of custom components for <a href="https://roamresearch.com">Roam Research</a>, writing in roam/render with clojurescript. 
     <br>
+    Interested in Roam JS plugins? Check some of mine <a href='https://github.com/8bitgentleman/roam-custom-theme/tree/master/roam-js'>here </a>
+
 </p>
 
 ## 📝 Table of Contents
