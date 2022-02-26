@@ -66,10 +66,10 @@ and select the item
 
   <img src="https://github.com/8bitgentleman/Roam-Render-Components/raw/main/Namespace%20Pages%20List/image.gif" width="400"></img>
 
-- ### Namespace Page List <a name = "sum"></a>
+- ### Shopping List Sum Prices <a name = "sum"></a>
   Searches all block children for prices in USD (eg. $10) and sums everything up <a href='https://github.com/8bitgentleman/Roam-Render-Components/releases/'>here </a>
 
-  <img src="https://github.com/8bitgentleman/Roam-Render-Components/raw/main/Shopping%List%20Sum/image.gif" width="400"></img>
+  <img src="https://github.com/8bitgentleman/Roam-Render-Components/raw/main/Shopping%20List%20Sum/image.gif" width="400"></img>
 
 - ### WIP Roam to Orbit <a name = "orbit"></a>
   THIS IS A WORK IN PROGRESS AND NOT READY FOR GENERAL USAGE
