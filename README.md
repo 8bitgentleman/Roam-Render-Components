@@ -24,6 +24,7 @@
   - [Count Child Blocks](#count)
   - [Namespace Pages List](#namespace)
   - [Shopping List Sum Prices](#sum)
+  - [WIP - Highlight Review](#highlight)
   - [WIP - Roam to Orbit](#orbit)
   - [WIP - Stopwatch](#stopwatch)
 
@@ -67,9 +68,15 @@ and select the item
   <img src="https://github.com/8bitgentleman/Roam-Render-Components/raw/main/Namespace%20Pages%20List/image.gif" width="400"></img>
 
 - ### Shopping List Sum Prices <a name = "sum"></a>
-  Searches all block children for prices in USD (eg. $10) and sums everything up <a href='https://github.com/8bitgentleman/Roam-Render-Components/releases/'>here </a>
+  Searches all block children for prices in USD (eg. $10) and sums everything up. Look for and download the latest JSON Release then import into Roam  <a href='https://github.com/8bitgentleman/Roam-Render-Components/releases/'>here </a>
 
   <img src="https://github.com/8bitgentleman/Roam-Render-Components/raw/main/Shopping%20List%20Sum/image.gif" width="400"></img>
+
+- ### WIP Highlight Review <a name = "highlight"></a>
+  This is a WIP component which creates a custom UI where highlights/quotes in your graph can be reviewed. For this extension to work highlights must be nested under a specific tag/page/attribute quotes.  It's currently extremely picky about the format and metadata that your pages have. I've included my personal template but any block nested under #quotes should be seen by the component. 
+  Look for and download the latest JSON Release then import into Roam    <a href='https://github.com/8bitgentleman/Roam-Render-Components/releases/'>here </a>
+
+  <img src="https://github.com/8bitgentleman/Roam-Render-Components/raw/main/Highlight%20Review/image.gif" width="400"></img>
 
 - ### WIP Roam to Orbit <a name = "orbit"></a>
   THIS IS A WORK IN PROGRESS AND NOT READY FOR GENERAL USAGE
