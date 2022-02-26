@@ -22,6 +22,7 @@
 - [Components](#components)
   - [TODO Progress Bar](#progress)
   - [Count Child Blocks](#count)
+  - [Namespace Pages List](#namespace)
   - [WIP - Roam to Orbit](#orbit)
   - [WIP - Stopwatch](#stopwatch)
 
@@ -57,6 +58,11 @@ and select the item
   Look for and download the latest JSON Release then import into Roam <a href='https://github.com/8bitgentleman/Roam-Render-Components/releases/'>here </a>
 
   <img src="https://github.com/8bitgentleman/Roam-Render-Components/raw/main/Count%20Block%20Children/image.gif" width="400"></img>
+
+- ### Namespace Page List <a name = "namespace"></a>
+  This component will create a dynamic list of all pages within a certain namespace (`roam` for example would include `roam/js`, `roam/css`, etc ). This can be useful to see a dynamic list of all Projects, Books, People, etc. To use simply trigger the included template ( `;;`) and pass your desired namespace into the component as an argument
+  Look for and download the latest JSON Release then import into Roam <a href='https://github.com/8bitgentleman/Roam-Render-Components/releases/'>here </a>
+
 
 - ### WIP Roam to Orbit <a name = "orbit"></a>
   THIS IS A WORK IN PROGRESS AND NOT READY FOR GENERAL USAGE
