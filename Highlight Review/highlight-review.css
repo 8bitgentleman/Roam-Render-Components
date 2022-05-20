@@ -1,3 +1,39 @@
-.highlight-review{
-  /* the main UI card */
-}
+/* This is all example CSS for targeting different parts of the component. Don't actually use these colors unless you hate yourself */
+
+.rm-highlight-component{
+    background-color:transparent;
+  }
+  .rm-highlight-component .rm-highlight-card{
+    background-color:blue !important;
+    color:orange !important;
+  }
+  .rm-highlight-card .bp3-card{
+    background-color:lightgreen;
+    color:yellow;
+    
+  }
+  /*chapter title*/
+  .rm-highlight-card .highlight-sections{
+    color: salmon !important;
+  }
+  /*author*/
+  .rm-highlight-card .highlight-author{
+    color: purple !important;
+  
+  }
+  
+  /*button color*/
+  .rm-highlight-card button{
+    color:red !important;
+    background:green !important;
+  }
+  /*button icon color*/
+  .rm-highlight-card button::before{
+    color:red !important;
+  }
+  /*button on hover*/
+  .rm-highlight-card button:hover{
+    color:blue !important;
+    background:orange !important;
+  }
+  
