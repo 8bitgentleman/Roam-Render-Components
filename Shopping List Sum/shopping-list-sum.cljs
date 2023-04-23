@@ -1,4 +1,4 @@
-(ns shopping-sum-v2
+(ns shopping-sum-v3
   (:require
    [reagent.core :as r]
    [datascript.core :as d]
@@ -38,10 +38,21 @@
   (->> content
     (re-seq #"\$\d+(?:\.\d+)?" )
     (map #(subs % 1) )
-    (map int )
+    (map float )
     (reduce +)
     )
   )
+
+(defn round-string-sums [uid]
+  (let [sum (->> uid
+      (find-child-refs )
+      (map :block/string )
+      (map sum-string )
+      (map js/parseFloat)
+                 (apply +))
+        rounded-sum (-> (js/Number. sum)
+                        (.toFixed 2))]
+    rounded-sum))
 
 (defn main [{:keys [block-uid]} & args]
   [:div.rm-shopping-sum {:style{:margin-left "10px"}} "Total Spent: " 
@@ -49,7 +60,7 @@
                  :display "inline-block"
                 
                 }}
-    "$"(reduce + (map #(sum-string (:block/string %)) (find-child-refs block-uid)))
+    "$"(round-string-sums block-uid)
     ]
      	
      ]
